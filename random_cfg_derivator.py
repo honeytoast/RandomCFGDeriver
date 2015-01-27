@@ -1,4 +1,4 @@
-#### "random_cfg_derivator.py"
+#### "random_cfg_deriver.py"
 #### Grace Hadiyanto
 #### CS439 FA14
 
