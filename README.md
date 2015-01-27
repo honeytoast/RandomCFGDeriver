@@ -1,4 +1,4 @@
-# RandomCFGDerivator
+# RandomCFGDeriver
 A project for Theory of Computability class that takes a context free grammar file and derives a random correct string.
 
 Included files:
@@ -14,7 +14,7 @@ sampleout | a text file containing a sample output
 
 **How to run:**
 
-python3 random_cfg_derivator.py {cfg filename}
+python3 random_cfg_deriver.py {cfg filename}
 
 About the project:
 
@@ -37,4 +37,4 @@ The grammar must include a variable called START which is the start variable.
 
 There is an assumption that in productions, variable names are always separated by at least one symbol.
 
-The random_cfg_derivator program derives strings randomly from a given CFG file by starting with the START variable, and then randomly choosing the next variable to expand. Upon having randomly chosen a variable to expand, the program will randomly choose from the available productions for that variable. The process continues until all variables have been randomly expanded.
+The random_cfg_deriver program derives strings randomly from a given CFG file by starting with the START variable, and then randomly choosing the next variable to expand. Upon having randomly chosen a variable to expand, the program will randomly choose from the available productions for that variable. The process continues until all variables have been randomly expanded.
