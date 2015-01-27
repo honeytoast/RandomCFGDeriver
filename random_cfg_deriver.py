@@ -72,7 +72,7 @@ def derive_string(current_string, grammar):
 
 def main():
     if len(sys.argv) != 2:
-        print('Required usage: python3 random_cfg_derivator.py <filename>')
+        print('Required usage: python3 random_cfg_deriver.py <filename>')
         print('Where filename is the name of a .cfg file.')
         exit()
 
