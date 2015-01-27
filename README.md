@@ -8,7 +8,7 @@ Filename | Description
 grammar.py | python3 source containing the grammar class
 variable.py | python3 source containing the variable class
 variable_reference.py | python3 source containing the variable reference class
-random_cfg_derivator.py | the main python3 source that algorithmically determines a random correct string from a given cfg file
+random_cfg_deriver.py | the main python3 source that algorithmically determines a random correct string from a given cfg file
 teatime.cfg | a file containing a context free grammar I made up.
 sampleout | a text file containing a sample output
 
